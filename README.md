@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Denis. I am a student at Sfedu and I am studying to be a programmer. I am currently working on my bots.</br>
+My name is Denis. I am a student at Sfedu and I am studying to be a programmer. I am currently working on my [bot](https://discord.com/application-directory/1250449856644911176).</br>
 I spend a lot of time in the Discord. ≽^•⩊•^≼</br>
 
 ### My PC
