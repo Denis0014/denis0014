@@ -7,7 +7,7 @@ I spend a lot of time in the Discord. ≽^•⩊•^≼</br>
 - Processor: Intel Core i9-10850K
 - RAM: DDR4 32.0 GB
 - Graphics: Nvidia RTX 3060
-- Memory: SDD M.2 500 GB
+- Memory: SDD M.2 1TB
 
 ### Socials links
 <div id="badges">
