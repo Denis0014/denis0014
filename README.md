@@ -11,7 +11,7 @@ I spend a lot of time in the Discord. ≽^•⩊•^≼</br>
 
 ### Socials links
 <div id="badges">
-  <a href="https://discord.gg/ghostytown"><img src="https://img.shields.io/discord/1047782946704195614?style=for-the-badge&label=discord&labelColor=5865f2&color=555555&logo=discord&logoColor=white" alt="Discord Badge"/></a>&nbsp;
+  <a href="https://discord.gg/cr7FHacME8"><img src="https://img.shields.io/discord/1047782946704195614?style=for-the-badge&label=discord&labelColor=5865f2&color=555555&logo=discord&logoColor=white" alt="Discord Badge"/></a>&nbsp;
   <a href="https://www.youtube.com/channel/UCr9ICWQ7Bznf55Je9HGJktw"><img src="https://img.shields.io/badge/YouTube-e42218?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>&nbsp;
   <a href="https://www.twitch.tv/denis_0014"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/></a>&nbsp;
   <a href="https://boosty.to/denis0014"><img src="https://img.shields.io/badge/Boosty-d45124?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty Badge"/></a>&nbsp;
